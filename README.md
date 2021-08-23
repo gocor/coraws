@@ -1,2 +1,1 @@
-# coraws
-
+# coraws has helper libraries for aws, sessions, etc.
