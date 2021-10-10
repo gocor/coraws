@@ -1,4 +1,4 @@
-module gitlab.com/gocor/coraws
+module github.com/gocor/coraws
 
 go 1.16
 
